@@ -12,7 +12,7 @@ public class TreeScript : MonoBehaviour
         Debug.Log("it works");
         if (Health <= 0)
         {
-            destroy(this);
+           transform.gameObject.SetActive(false);
         }
     }
         
