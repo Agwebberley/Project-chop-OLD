@@ -4,15 +4,17 @@ using UnityEngine;
 
 public class TreeScript : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public int Health = 100;
+    
+    private void OnCollisionEnter(Collision other)
     {
-        
+        Health = Health - 10;
+        Debug.Log("it works");
+        if (Health <= 0)
+        {
+            destroy(this);
+        }
     }
-
-    // Update is called once per frame
-    void Update()
-    {
         
-    }
+    
 }
