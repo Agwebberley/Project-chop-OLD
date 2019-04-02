@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: fb1da3006512b429b8042cece071a46f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bent Nail
+    100002: Bent Nail.1
+    100004: Bent Nail.1.1
+    100006: Bent Nail.2
+    100008: Bent Nail.2.1
+    100010: Fence Section1
+    100012: Fence Section2
+    100014: Fence Section3
+    100016: //RootNode
+    100018: FenceBoard1
+    100020: FenceBoard1.1
+    100022: FenceBoard1.2
+    100024: FenceBoard2
+    100026: FenceBoard2.1
+    100028: FenceBoard2.2
+    100030: FencePost1
+    100032: FencePost1.1
+    100034: FencePost1.2
+    100036: FencePost2
+    100038: FencePost2.1
+    100040: FencePost2.2
+    100042: Nail
+    100044: Nail.1
+    100046: Nail.10
+    100048: Nail.11
+    100050: Nail.12
+    100052: Nail.13
+    100054: Nail.14
+    100056: Nail.15
+    100058: Nail.2
+    100060: Nail.3
+    100062: Nail.4
+    100064: Nail.5
+    100066: Nail.6
+    100068: Nail.7
+    100070: Nail.8
+    100072: Nail.9
+    400000: Bent Nail
+    400002: Bent Nail.1
+    400004: Bent Nail.1.1
+    400006: Bent Nail.2
+    400008: Bent Nail.2.1
+    400010: Fence Section1
+    400012: Fence Section2
+    400014: Fence Section3
+    400016: //RootNode
+    400018: FenceBoard1
+    400020: FenceBoard1.1
+    400022: FenceBoard1.2
+    400024: FenceBoard2
+    400026: FenceBoard2.1
+    400028: FenceBoard2.2
+    400030: FencePost1
+    400032: FencePost1.1
+    400034: FencePost1.2
+    400036: FencePost2
+    400038: FencePost2.1
+    400040: FencePost2.2
+    400042: Nail
+    400044: Nail.1
+    400046: Nail.10
+    400048: Nail.11
+    400050: Nail.12
+    400052: Nail.13
+    400054: Nail.14
+    400056: Nail.15
+    400058: Nail.2
+    400060: Nail.3
+    400062: Nail.4
+    400064: Nail.5
+    400066: Nail.6
+    400068: Nail.7
+    400070: Nail.8
+    400072: Nail.9
+    2100000: No Name
+    2300000: Bent Nail
+    2300002: Bent Nail.1
+    2300004: Bent Nail.1.1
+    2300006: Bent Nail.2
+    2300008: Bent Nail.2.1
+    2300010: FenceBoard1
+    2300012: FenceBoard1.1
+    2300014: FenceBoard1.2
+    2300016: FenceBoard2
+    2300018: FenceBoard2.1
+    2300020: FenceBoard2.2
+    2300022: FencePost1
+    2300024: FencePost1.1
+    2300026: FencePost1.2
+    2300028: FencePost2
+    2300030: FencePost2.1
+    2300032: FencePost2.2
+    2300034: Nail
+    2300036: Nail.1
+    2300038: Nail.10
+    2300040: Nail.11
+    2300042: Nail.12
+    2300044: Nail.13
+    2300046: Nail.14
+    2300048: Nail.15
+    2300050: Nail.2
+    2300052: Nail.3
+    2300054: Nail.4
+    2300056: Nail.5
+    2300058: Nail.6
+    2300060: Nail.7
+    2300062: Nail.8
+    2300064: Nail.9
+    3300000: Bent Nail
+    3300002: Bent Nail.1
+    3300004: Bent Nail.1.1
+    3300006: Bent Nail.2
+    3300008: Bent Nail.2.1
+    3300010: FenceBoard1
+    3300012: FenceBoard1.1
+    3300014: FenceBoard1.2
+    3300016: FenceBoard2
+    3300018: FenceBoard2.1
+    3300020: FenceBoard2.2
+    3300022: FencePost1
+    3300024: FencePost1.1
+    3300026: FencePost1.2
+    3300028: FencePost2
+    3300030: FencePost2.1
+    3300032: FencePost2.2
+    3300034: Nail
+    3300036: Nail.1
+    3300038: Nail.10
+    3300040: Nail.11
+    3300042: Nail.12
+    3300044: Nail.13
+    3300046: Nail.14
+    3300048: Nail.15
+    3300050: Nail.2
+    3300052: Nail.3
+    3300054: Nail.4
+    3300056: Nail.5
+    3300058: Nail.6
+    3300060: Nail.7
+    3300062: Nail.8
+    3300064: Nail.9
+    4300000: FencePost2
+    4300002: FencePost1
+    4300004: FenceBoard1
+    4300006: FenceBoard2
+    4300008: Nail
+    4300010: Nail.1
+    4300012: Nail.2
+    4300014: Nail.3
+    4300016: Nail.4
+    4300018: Nail.5
+    4300020: Bent Nail
+    4300022: FencePost2.1
+    4300024: FencePost1.1
+    4300026: FenceBoard1.1
+    4300028: FenceBoard2.1
+    4300030: Nail.6
+    4300032: Nail.7
+    4300034: Nail.8
+    4300036: Nail.9
+    4300038: Nail.10
+    4300040: Nail.11
+    4300042: Bent Nail.1
+    4300044: FencePost2.2
+    4300046: FencePost1.2
+    4300048: FenceBoard1.2
+    4300050: FenceBoard2.2
+    4300052: Nail.12
+    4300054: Nail.13
+    4300056: Nail.14
+    4300058: Nail.15
+    4300060: Bent Nail.2
+    4300062: Bent Nail.2.1
+    4300064: Bent Nail.1.1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
